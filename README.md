@@ -1,9 +1,15 @@
 # Busqueda por parte de los trabajadores para el tratamiento de salud mental
-
-## Proposito del proyecto
+## Resumen ejecutivo
+### Proposito del proyecto
 Este modelo tiene como proposito detectar si un empleado buscara o no tratamiento de salud mental
-## Datos usados
+### Datos usados
 Se uso una encuesta de OSMI (Open Sourcing Mental Illness) (en español, "Abriendo el código de la salud mental"). Es una organización sin fines de lucro creada en Estados Unidos por la comunidad tecnológica, quienes buscan cambiar la forma en que se habla sobre la salud mental en el sector de la tecnología.
+### Que problema se aborda?
+Actualmente muchos trabajadores necesitan tratamiento mental debido a ciertos factores, estos pueden ser el contexto laboral, antecedentes familiares, es por lo tanto que se quiere encontrar esos valores y que tanto influye en que los trabajadores decidan buscar tratamiento.
+### Que se descubrio?
+El antecedente familiar junto con la edad son unas de las variables mas influyentes.
+### Cual es el impacto o aplicacion del analisis?
+Sabiendo ya las varibles mas relacionadas se podria tomar prevision de esas variables y mejorar el rendimiento de los trabajadores
 
 Proyecto final | Belen Mejia Medina | Adquisicion, analisis y procesamiento de datos
 
